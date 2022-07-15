@@ -1,5 +1,5 @@
 # Code-Prep
-<<<<<<< HEAD
+
 Maintain your all loved questions 
 
 ![Screenshot (113)](https://user-images.githubusercontent.com/76872168/179171314-a5fa1c1d-13b7-431e-9879-673e01063826.png)
